@@ -1,0 +1,1 @@
+The purpose of this project is to practice adding a new property to an object using dot notation.
